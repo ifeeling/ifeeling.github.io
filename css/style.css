@@ -796,3 +796,11 @@ body.respond #messageSent {
 
     margin-bottom: 16px;
 }
+.bgc {
+    background: #444;
+    color:#fff;
+    padding: 3px 5px;
+    font-weight: bold;
+
+}
+.hr0{ height:1px;border:none;border-top:1px dashed #444;}
