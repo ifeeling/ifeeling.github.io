@@ -365,12 +365,29 @@ ul#seenOn li {
     position: relative;
     border: 1px solid #eee;
     margin-right: 2px;
-    height: 36px;
+    /* height: 36px; */
     border-radius: 4px;
-    line-height: 30px;
+    /* line-height: 30px; */
 }
 
 ul#seenOn li img {
+    height: 90px;
+    width: auto;
+    padding: 3px;
+}
+
+ul#seenOn2 li {
+    display: inline-block;
+    position: relative;
+    border: 1px solid #eee;
+    margin-right: 2px;
+    /* height: 36px; */
+    border-radius: 4px;
+    /* line-height: 30px; */
+}
+
+ul#seenOn2 li img {
+    
     height: 30px;
     width: auto;
     padding: 3px;
@@ -726,11 +743,11 @@ body.respond ul#seenOn li {
     line-height: 1em;
 }
 
-body.respond ul#seenOn li img {
-    width: 96%;
+/* body.respond ul#seenOn li img {
+    width: 30%;
     height: auto;
     padding: 2%;
-}
+} */
 
 body.respond ul#jobs li .details,
 body.respond ul#schools li .details,
@@ -772,4 +789,10 @@ body.respond #copyright {
 
 body.respond #messageSent {
     margin-top: 20px;
+}
+
+.clearli {
+    margin-top: 30px;
+
+    margin-bottom: 16px;
 }
