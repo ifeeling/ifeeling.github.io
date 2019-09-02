@@ -48,12 +48,12 @@ ul {
 
 li {
     margin: 0 0 5px 0;
-    font-size: 13px;
+    font-size: 14px;
 }
 
 p {
     text-align: justify;
-    font-size: 13px;
+    font-size: 14px;
 }
 
 .clear {
@@ -111,7 +111,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h3 {
     font-weight: bold;
-    font-size: 14px
+    font-size: 16px
 }
 
 /* --------------------------*/
@@ -188,7 +188,7 @@ h2#contact:before {
 }
 
 #bio h2 {
-    font-size: 15px;
+    font-size: 16px;
 }
 
 #bio p {
@@ -564,7 +564,7 @@ li.s10 {
     border: 1px solid #eee;
     border-radius: 8px;
     color: #666;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 #contactform textarea {
@@ -703,7 +703,7 @@ body.respond #wrapper {
 }
 
 body.respond h2.sectionHead {
-    font-size: 15px;
+    font-size: 16px;
     letter-spacing: -1px;
     margin: 40px 0 50px -60px;
     padding-left: 8px;
@@ -728,7 +728,7 @@ body.respond #socialIcons {
 }
 
 body.respond #bio h2 {
-    font-size: 12px;
+    font-size: 14px;
 }
 
 body.respond #bio p {
