@@ -35,11 +35,11 @@
 <div id="wrapper">
 
     <!--INTRODUCE NAME-->
-    <h2 id="titleName" class="sectionHead">贾晓红</h2>
+    <!-- <h2 id="titleName" class="sectionHead">贾晓红</h2> -->
 
     <!--BASE INFORMATION-->
     <div id="bio">
-        <h2>销售总监 / 运营中心经理 / 零售经理 / 客服中心长</h2>
+        <!-- <h2>销售总监 / 运营中心经理 / 零售经理 / 客服中心长</h2> -->
         <!--BASE INFORMATION - SOCIAL LINKS-->
         <!-- <div id="socialIcons">
             <a class="socialIcon" id="phoneIcon" href="#18003829681" title="13917053660" ></a>
@@ -50,7 +50,7 @@
         <!--END SOCIAL LINKS-->
 
         <!--BASE INFORMATION - PERSONAL INFORMATION-->
-        <p>
+        <!-- <p>
                 <b><a>自我评价:</a></b>
             <br/>
             学习能力强、谦虚、自信，敢于挑战，拥有良好的心理素质；
@@ -64,7 +64,7 @@
             在为企业创造价值的基础上实现个人价值
 
             
-        </p>
+        </p> -->
         <!--END PERSONAL INFORMATION-->
     </div>
     <!--END BASE INFORMATION-->
@@ -74,19 +74,19 @@
     
 
     <!--EXPERIENCE TITLE-->
-    <h2 id="clock" class="sectionHead">工作经验</h2>
+    <!-- <h2 id="clock" class="sectionHead">工作经验</h2> -->
     <!--EXPERIENCE-->
     <ul id="jobs">
         <li>
             <div class="details">
                    
-                <h3>上海冠松汽车有限公司</h3>
+                <!-- <h3>上海冠松汽车有限公司</h3>
                 <br/>
                 <h4>别克零售经理（正职经理级别）/<br/> 集团业务运营中心经理（高级经理级别）/<br/> 大众公司销售总监（总监级别）/</h4>
-                <h5>2012.09 ~ 至今</h5>
+                <h5>2012.09 ~ 至今</h5> -->
             </div>
 
-            <p><a class='bgc'>岗位职责: </a><br/>别克零售经理期间负责通用公司内训、展厅管理、满意度管理。/<br/>集团业务运营中心经理任职期间主要负责集团旗下26家4S店的展厅管理、商务政策运用管理、大客户管理三大模块管理。/<br/>大众销售任职期间主要负责销售部、市场部、装潢部三大部门的管理工作。
+            <!-- <p><a class='bgc'>岗位职责: </a><br/>别克零售经理期间负责通用公司内训、展厅管理、满意度管理。/<br/>集团业务运营中心经理任职期间主要负责集团旗下26家4S店的展厅管理、商务政策运用管理、大客户管理三大模块管理。/<br/>大众销售任职期间主要负责销售部、市场部、装潢部三大部门的管理工作。
                     <br/><br/><a class='bgc'>汇报对象: </a><br/>集团业务运营中心总经理</p>
 
         </li>
@@ -113,7 +113,7 @@
                 <br/><br/><a class='bgc'>汇报对象: </a><br/>分公司总经理/总部销售部长
             </p>
         </li>
-    </ul>
+    </ul> -->
     <!--END EXPERIENCE-->
 
     <div class="clear"></div>
@@ -136,11 +136,11 @@
     <div class="clear"></div>
 
     <!--HONORS / AWARDS TITLE-->
-    <h2 id="ribbon" class="sectionHead">荣誉 &amp; 奖励</h2>
+    <!-- <h2 id="ribbon" class="sectionHead">荣誉 &amp; 奖励</h2> -->
 
    
     <!--HONORS / AWARDS-->
-    <h3 class='clearli'>冠松汽车</h3>
+    <!-- <h3 class='clearli'>冠松汽车</h3>
     <ul id="honorsAwards">
         <li>别克品牌期间获得全国优秀经理</li>
         <li>大众品牌期间获得全国优秀销售总监</li>
@@ -162,7 +162,7 @@
     <ul id="honorsAwards">
         <li>连续4年获得公司先进工作者称号</li>
         <li>获得珠海总部优秀大区管理奖</li>
-    </ul>
+    </ul> -->
     <!--END HONORS / AWARDS-->
 
     <div class="clear"></div>
@@ -174,7 +174,7 @@
     <div class="clear"></div>
 
     <!--AS SEEN ON-->
-    <ul id="seenOn">
+    <!-- <ul id="seenOn">
         <li class="bwWrapper"><img src="images/logos/大众.png" alt="大众"/></li>
         <li class="bwWrapper"><img src="images/logos/别克.png" alt="别克"/></li>
         <li class="bwWrapper"><img src="images/logos/冠松1.png" alt="冠松"/></li>
@@ -187,13 +187,13 @@
 
     <div class="clear"></div>
     <!--AS SEEN ON TITLE-->
-    <h2 id="tools" class="sectionHead">其他信息</h2>
+    <!-- <h2 id="tools" class="sectionHead">其他信息</h2> -->
 
-    <ul id="honorsAwards">
+    <!-- <ul id="honorsAwards">
         <li>户口所在地：上海</li>
         <li>出生日期：1979年2月</li>
-        <li>联系方式：13917053660 / jxhcn@hotmail.com</li>
-    </ul>
+        <li>联系方式：13917053660 / jxhcn@hotmail.com</li> -->
+    </ul> -->
 
 </div>
 <!--END WRAPPER-->
