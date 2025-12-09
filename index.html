@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>TimeLine</title>
+    <meta charset="utf-8" />
+    <link
+      title="timeline-styles"
+      rel="stylesheet"
+      href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css"
+    />
+    <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+    <link
+      href="./styles.css"
+      rel="stylesheet"
+      class="lazyload"
+      charset="utf-8"
+    />
+  </head>
+  <body>
+    <div id="timeline-embed" style="width: 100%; height: 100%"></div>
+
+    <script>
+      var options = {
+        font: "PT Sans, PT Sans Narrow, and PT Serif",
+        hash_bookmark: true, //如果设置为 true，TimelineJS 会在每次幻灯片推进时更新浏览器 URL，以便用户可以直接链接到特定的幻灯片。
+        language: "en",
+        scale_factor: 3, //初次展示时，时间线应该有多少屏幕宽度？
+        initial_zoom: 1, //zoom_sequence 系列中的位置用于创建时间线时的缩放。优先于 scale_factor。
+        optimal_tick_width: 100, //轴上刻画之间的最佳距离（像素单位）。 默认是100
+        timenav_height: 150, // 时间线导航的像素高度。优先于 timenav_height_percentage。 默认是150
+
+        timenav_mobile_height_percentage: 40, //指定时间线导航高度为移动设备屏幕的百分比。 默认是40
+      };
+
+      // var data_source = "https://bing.irealweixin.com/timeline/911.json";
+      var data_source = "https://directusfiles.irealweixin.com/test/2.json";
+      // var data_source = "./2.json";
+
+      var timeline = new TL.Timeline("timeline-embed", data_source, options);
+      // var timeline = new TL.Timeline('timeline-embed', 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTnoE8EPZy5pAMNl2al6QUKfrswZfgH7rvitk-p9mha8RdPAytCAyCTMFPRv3obDj5oR93AXWnCo0qE/pubhtml',options);
+    </script>
+  </body>
+</html>
